@@ -1,0 +1,52 @@
+h1 {
+    color: rgb(5, 19, 19);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+header {
+    background-color: black;
+    text-transform: uppercase;
+    margin: -8px;
+    text-align: center;
+    height: 3em;
+    line-height: 3em;
+    position: fixed;
+    width: 100%;
+    
+    
+
+}
+header a {
+    color: white;
+    padding: o 1em;
+}
+
+main {
+    color: black;
+    margin: 0 auto;
+    max-width: 35em;
+    padding-top: 3em;
+}
+
+body {
+    font-family: "Playfair Display", serif;
+    color: black;
+    background-color: rgb(250, 248, 246);
+    line-height: 1, 5em;
+}
+
+a {
+    color: rgb(28, 227, 28);
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(5, 48, 5);
+}
+
+h2 {
+    .eriline {
+        color: rgb(201, 20, 20);
+    }
+}
